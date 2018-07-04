@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryzokuken/puppeteer-xkcd/issues"
   },
-  "homepage": "https://github.com/ryzokuken/puppeteer-xkcd#readme"
+  "homepage": "https://github.com/ryzokuken/puppeteer-xkcd#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
 }
