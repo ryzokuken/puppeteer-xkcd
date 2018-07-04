@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-xkcd",
+  "version": "1.0.0",
+  "description": " A simple Puppeteer script to display random XKCD strips. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzokuken/puppeteer-xkcd.git"
+  },
+  "author": "Ujjwal Sharma <usharma1998@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryzokuken/puppeteer-xkcd/issues"
+  },
+  "homepage": "https://github.com/ryzokuken/puppeteer-xkcd#readme"
+}
