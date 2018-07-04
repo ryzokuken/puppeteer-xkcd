@@ -8,8 +8,8 @@ const puppeteer = require('puppeteer');
   const hiddenPage = await browser.newPage();
   const page = await browser.newPage();
   page.setViewport({
-    width: 1440,
-    height: 900,
+    width: 1920,
+    height: 1080,
   });
   while (true) {
     await hiddenPage.goto('https://c.xkcd.com/comic/random');
